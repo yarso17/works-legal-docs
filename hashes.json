@@ -1,0 +1,14 @@
+{
+  "terms": {
+    "v1": {
+      "sha256": "dd5466d63cc4b8915b2ebcf89d73a9a4af639dcdf3d75f9b53182f45da533816",
+      "path": "docs/terms/v1.md"
+    }
+  },
+  "policies": {
+    "v1": {
+      "sha256": "215028fa77cc6fa7bdafaa81cbbe8b7a389ff915d8a631842936a2ff74dd28fb",
+      "path": "docs/policies/v1.md"
+    }
+  }
+}
