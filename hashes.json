@@ -9,6 +9,10 @@
     "v1": {
       "sha256": "215028fa77cc6fa7bdafaa81cbbe8b7a389ff915d8a631842936a2ff74dd28fb",
       "path": "docs/policies/v1.md"
+    },
+    "v2": {
+      "sha256": "4f98803bdf35be3ef5549edd62d4f79d049b55d4465cc4d7f4e10dec83cbec35",
+      "path": "docs/policies/v2.md"
     }
   }
 }
