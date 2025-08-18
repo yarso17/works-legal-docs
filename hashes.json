@@ -3,6 +3,10 @@
     "v1": {
       "sha256": "dd5466d63cc4b8915b2ebcf89d73a9a4af639dcdf3d75f9b53182f45da533816",
       "path": "docs/terms/v1.md"
+    },
+    "v2": {
+      "sha256": "00aa3191fed40b55337f1d2e1f5e4cf08ab0a4872f2b9bd4dd332499c4b18b1a",
+      "path": "docs/terms/v2.md"
     }
   },
   "policies": {
@@ -13,6 +17,10 @@
     "v2": {
       "sha256": "4f98803bdf35be3ef5549edd62d4f79d049b55d4465cc4d7f4e10dec83cbec35",
       "path": "docs/policies/v2.md"
+    },
+    "v3": {
+      "sha256": "32968781a1ccc1a922d556190449b338966d1aa1632bfed070847c7ab3811bbc",
+      "path": "docs/policies/v3.md"
     }
   }
 }
