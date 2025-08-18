@@ -21,6 +21,10 @@
     "v3": {
       "sha256": "32968781a1ccc1a922d556190449b338966d1aa1632bfed070847c7ab3811bbc",
       "path": "docs/policies/v3.md"
+    },
+    "v4": {
+      "sha256": "bcdcec94285349b3e67b0249462b27b0566872c7d1149b18519ba83777e578eb",
+      "path": "docs/policies/v4.md"
     }
   }
 }
